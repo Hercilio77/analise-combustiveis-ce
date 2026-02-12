@@ -33,7 +33,7 @@ Análise exploratória de **11.172 registros** de preços de gasolina comum no C
 - SJ PETRÓLEO (RAIZEN): 8 ocorrências
 - MG DERIVADOS (VIBRA): 2 ocorrências
 
-**Conclusão:** Padrão sugere possível coordenação de preços em região específica. Recomenda-se investigação por órgãos reguladores (CADE/PROCON).
+**Conclusão:** Padrão sugere possível coordenação de preços em região específica. 
 
 ### 4. Tendência de Queda no Semestre
 - Preço médio caiu **4,9%** entre julho (R$ 6,52) e dezembro (R$ 6,20)
@@ -72,6 +72,7 @@ Análise refutou hipótese inicial: **NÃO há correlação direta entre quantid
 
 ---
 *Projeto desenvolvido para portfólio profissional - Fevereiro 2026*
+
 
 
 
