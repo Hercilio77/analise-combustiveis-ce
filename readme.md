@@ -11,7 +11,7 @@ Análise exploratória de **11.172 registros** de preços de gasolina comum no C
 - **Análise:** SQL (DBeaver)
 - **Visualização:** Power BI Desktop
 
-## 🎯 Principais Descobertas
+## Principais Descobertas
 
 ### 1. Concentração Geográfica Extrema
 - **Fortaleza concentra 106 postos únicos** (43% dos postos analisados)
@@ -24,7 +24,7 @@ Análise exploratória de **11.172 registros** de preços de gasolina comum no C
 - Líderes praticam preços **abaixo da média** (estratégia de volume)
 - IPIRANGA (menor share) compensa com **margens maiores** (+0,74%)
 
-### 3. ⚠️ Padrão Suspeito em Juazeiro do Norte
+### 3. Padrão Suspeito em Juazeiro do Norte
 **Achado crítico:** 4 postos de bandeiras diferentes (BRANCA, RAIZEN, VIBRA) mantiveram preços **praticamente idênticos** (R$ 6,89-6,90) por **3 meses consecutivos**, **8,5% acima da média local**.
 
 **Análise detalhada:**
@@ -43,7 +43,7 @@ Análise exploratória de **11.172 registros** de preços de gasolina comum no C
 Análise refutou hipótese inicial: **NÃO há correlação direta entre quantidade de postos e preço baixo**
 - Fatores locais (logística, renda per capita, características da concorrência) pesam mais que concentração absoluta
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ├── analise_combustiveis_ce.sql # Queries SQL comentadas
 ├── gasolina_ce.csv # Dataset original (ANP)
@@ -86,4 +86,5 @@ Análise refutou hipótese inicial: **NÃO há correlação direta entre quantid
 
 ---
 *Projeto desenvolvido para portfólio profissional - Fevereiro 2026*
+
 
