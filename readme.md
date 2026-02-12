@@ -1,11 +1,11 @@
 # Análise de Preços de Gasolina - Ceará (2º Semestre 2025)
 
-## 📊 Sobre o Projeto
+## Sobre o Projeto
 Análise exploratória de **11.172 registros** de preços de gasolina comum no Ceará entre julho e dezembro de 2025, utilizando dados públicos da ANP. O objetivo foi identificar padrões de precificação, concentração de mercado e possíveis anomalias competitivas.
 
 ![Dashboard](dashboard_combustiveis_ce.png)
 
-## 🛠️ Stack Técnica
+## Stack Técnica
 - **Coleta e ETL:** Python + Pandas
 - **Armazenamento:** MySQL 8.0
 - **Análise:** SQL (DBeaver)
@@ -72,6 +72,7 @@ Análise refutou hipótese inicial: **NÃO há correlação direta entre quantid
 
 ---
 *Projeto desenvolvido para portfólio profissional - Fevereiro 2026*
+
 
 
 
